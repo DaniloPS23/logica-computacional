@@ -12,3 +12,8 @@ while x<5:
   x=x+1
 print(altura)
 print(idade)
+
+y=4
+while y>=0:
+  print('idade: ', idade[y], 'altura: ', altura[y])
+  y=y-1
